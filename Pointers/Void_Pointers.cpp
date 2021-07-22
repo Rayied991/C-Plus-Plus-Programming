@@ -72,6 +72,7 @@ int main()
     Print(&ld, 'ld');
     Print(&x, 'li');
     Print(&st, 's');
+    Print(&st, 'y');
 
     return 0;
 }
