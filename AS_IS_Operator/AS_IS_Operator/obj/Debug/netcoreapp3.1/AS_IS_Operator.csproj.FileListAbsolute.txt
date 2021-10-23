@@ -1,0 +1,14 @@
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.exe
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.deps.json
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.runtimeconfig.json
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.runtimeconfig.dev.json
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.dll
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\bin\Debug\netcoreapp3.1\AS_IS_Operator.pdb
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.csproj.AssemblyReference.cache
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.AssemblyInfoInputs.cache
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.AssemblyInfo.cs
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.csproj.CoreCompileInputs.cache
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.dll
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.pdb
+E:\6th Semester\OOP2\Mid\Class codes\AS_IS_Operator\AS_IS_Operator\obj\Debug\netcoreapp3.1\AS_IS_Operator.genruntimeconfig.cache
